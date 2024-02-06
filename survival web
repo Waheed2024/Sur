@@ -18,7 +18,7 @@
         <p>The are the best Web Designer throughout the country. We are fast and reliable and we design at Affordable price</p>
         <h2>Aim: </h2>
         <p>To create the best web page for the easy accessible of the user and to attract the user to the use of web page</p>
-_____________________________________________
+<hr>
 <br>
     <form>
 Email:      <input type="text"><id="t1"</input>
@@ -35,7 +35,7 @@ Password: <input type="text"></input><br>
 <img src="https://storage/emulated/0/Download/images (1).jpeg"</img> <b>:09132438339</b> <img src="https://storage/emulated/0/Download/fb_icon_325x325.png"</image> : <b>Waheed Alayande</b><br>
 <p>Also download the white paper for more information about our company with the link bellow <a href="download"> Download with paper</a></p>        
     </body>
-_______________________________________________    
+<hr>  
     <footer>
         <i><b> NOTE:</b> portal is now available for your order and you can pay with you card or bank transfer</i>
         <a href="payment portal">payment portal</a>
